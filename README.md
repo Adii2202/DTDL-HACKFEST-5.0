@@ -1,5 +1,9 @@
-### PPT
-[Link ![](https://docs.google.com/presentation/d/1RDzMvD8M68AS7RIAQlghbTeqqDtb5ybgV9cBrIWBlEs/edit?usp=sharing)
+### Presentation
+
+[View Presentation](https://docs.google.com/presentation/d/1RDzMvD8M68AS7RIAQlghbTeqqDtb5ybgV9cBrIWBlEs/edit?usp=sharing)
+
+Click the link above to access the project presentation on Google Slides.
+
 
 ### Process flow diagram or Use-case diagram - Biometric Verification View
 
