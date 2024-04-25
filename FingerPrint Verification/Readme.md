@@ -3,7 +3,10 @@
 This project implements a fingerprint verification system capable of processing fingerprint images for feature extraction and verification. The current implementation accepts input as an image file, but it can be modified to directly interface with a fingerprint scanner for real-time input.
 
 ---
+### Output
 
+
+---
 #### Adapting to Fingerprint Scanner Input
 
 To adapt the system to accept input directly from a fingerprint scanner:
