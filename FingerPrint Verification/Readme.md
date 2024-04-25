@@ -5,6 +5,7 @@ This project implements a fingerprint verification system capable of processing 
 ---
 ### Output
 
+![Output Image](./Output.jpg)
 
 ---
 #### Adapting to Fingerprint Scanner Input
