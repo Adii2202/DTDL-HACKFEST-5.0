@@ -11,7 +11,7 @@ Click the link above to access the project presentation on Google Slides.
 
 ### Process flow diagram or Use-case diagram - Query Scheduling View
 
-[![](https://app.eraser.io/workspace/x014JgHLyVUrM5NH5Src/preview?elements=a-o2A0iNCH7A254fvueq5Q&type=embed)](https://app.eraser.io/workspace/x014JgHLyVUrM5NH5Src?elements=a-o2A0iNCH7A254fvueq5Q)
+![image](https://github.com/NishantSatere/DTDL/assets/131331573/bd7e6ec1-ef32-4ae8-b71e-35d7f7c422d2)
 
 ### Architecture diagram of the proposed solution
 
